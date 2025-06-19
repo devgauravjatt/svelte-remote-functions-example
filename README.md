@@ -1,4 +1,4 @@
-# ⚡ SvelteKit Remote Functions Showcase
+# ⚡ SvelteKit Remote Functions Example
 
 Welcome to a demo of the new **Remote Functions** in [SvelteKit](https://github.com/sveltejs/kit/discussions/13897)! This feature is currently experimental 🧪 and provides a powerful way to colocate server logic directly with components using `.remote.ts` files.
 
