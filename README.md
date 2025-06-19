@@ -7,6 +7,18 @@ Welcome to a demo of the new **Remote Functions** in [SvelteKit](https://github.
 
 ---
 
+## 🤣 Fast use
+
+```bash
+
+pnpm dlx gitpick https://github.com/devgauravjatt/svelte-remote-functions-example
+
+cd svelte-remote-functions-example
+
+pnpm i && pnpm dev
+
+```
+
 ## 🧪 What Are Remote Functions?
 
 Remote Functions let you write server-only logic in `.remote.ts` files and call them from your Svelte components as if they were regular functions. Depending on whether you're on the client or server, they either execute directly or automatically wrap a `fetch()` request behind the scenes.
